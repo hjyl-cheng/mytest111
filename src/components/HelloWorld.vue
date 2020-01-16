@@ -13,6 +13,7 @@
     },
     methods: {
       showOrhide() {
+        var a = 0;
         // 请求数据，赋值 异步渲染
         // 滚动
         // request(()=> {
